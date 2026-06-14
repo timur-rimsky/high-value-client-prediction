@@ -104,7 +104,7 @@ In the future, this project could be improved by:
 * tuning model hyperparameters;
 * evaluating performance on a larger and more stable test set;
 * adding cross-validation;
-* analyzing model performance with a confusion matrix.
+* visualizing the confusion matrix with a heatmap.
 
 ## Repository Structure
 
